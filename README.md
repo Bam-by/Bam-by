@@ -25,12 +25,10 @@ Hi, I'm novoid, a self-taught developer from Col.
 
 **Stadistics:**
   
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zNovoid&show_icons=true&locale=en" alt="zNovoid" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zNovoid&" alt="zNovoid" /></p>
- 
-
+  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="zNovoid" /></p>
+  
 
   
   
