@@ -15,6 +15,9 @@
 <a href="https://discord.com/api/oauth2/authorize?client_id=885651144632827964&permissions=8&scope=bot">
   <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/Yami-bot.png" />
 </a>
+<a href="https://zNovoid.github.io">
+  <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/chat.png" />
+</a>
 
 
 
