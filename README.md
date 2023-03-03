@@ -1,13 +1,16 @@
 ### Hi there, I'm [Novoid!](https://github.com/zNovoid) 👋
 
-<a href="https://github.com/zNovoid">
+<a href="https://discord.com/api/oauth2/authorize?client_id=885651144632827964&permissions=8&scope=bot">
   <img align="left" alt="znovoid" width="20px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/discord-icono.png" />
-</a>
-<a href="https://znovoid.github.io/">
-  <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/3-en-raya.png" />
 </a>
 <a href="https://github.com/zNovoid/Super-Mario/tree/main">
   <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/mushroom.png" />
+</a>
+<a href="https://github.com/zNovoid/3-En-Raya/tree/main">
+  <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/3-en-raya.png" />
+</a>
+<a href="https://github.com/zNovoid/Cifrador-Cesar">
+  <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/Cifrador-cesar.png" />
 </a>
 
 
