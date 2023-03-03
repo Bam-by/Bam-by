@@ -6,7 +6,7 @@
 <a href="https://znovoid.github.io/">
   <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/3-en-raya.png" />
 </a>
-<a href="https://znovoid.github.io/">
+<a href="https://github.com/zNovoid/Super-Mario/tree/main">
   <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/mushroom.png" />
 </a>
 
