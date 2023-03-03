@@ -1,6 +1,6 @@
 ### Hi there, I'm [Novoid!](https://github.com/zNovoid) 👋
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=885651144632827964&permissions=8&scope=bot">
+<a href="https://github.com/zNovoid/Discord.js-V13-Bot-Template">
   <img align="left" alt="znovoid" width="20px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/discord-icono.png" />
 </a>
 <a href="https://github.com/zNovoid/Super-Mario/tree/main">
@@ -11,6 +11,9 @@
 </a>
 <a href="https://github.com/zNovoid/Cifrador-Cesar">
   <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/Cifrador-cesar.png" />
+</a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=885651144632827964&permissions=8&scope=bot">
+  <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/Yami-bot.png" />
 </a>
 
 
