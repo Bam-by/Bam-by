@@ -13,11 +13,18 @@
 
 <br />
 
-Hi, I'm novoid, a self-taught developer from Col.
+Hi, I'm Novoid Dii a self-taught developer, I was born in Colombia in 1990. Since I was little, I was passionate about technology and always loved creating things. After graduating from university, I will start working in the field of web programming.
 
 - 🔭 I’m currently working on [My Discord Bot](http://bit.ly/3FyZ9zs )
 - 🌱 I’m currently learning Javascript
+- 💻 I'm currently creating various web programming projects in my free time
 - 💬 Ask me about anything [here](https://github.com/zNovoid/zNovoid/issues)
+
+**My interests:**
+
+- 📱 Technology
+- 🏀 Sports
+- 🥟 Kitchen
 
 **Languages and Tools:**  
 
