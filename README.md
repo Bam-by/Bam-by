@@ -7,7 +7,7 @@
   <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/mushroom.png" />
 </a>
 <a href="https://github.com/zNovoid/3-En-Raya/tree/main">
-  <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/3-en-raya.png" />
+  <img align="left" alt="zNovoid" width="25px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/triqui.png" />
 </a>
 <a href="https://github.com/zNovoid/Cifrador-Cesar">
   <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/Cifrador-cesar.png" />
@@ -16,7 +16,10 @@
   <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/Yami-bot.png" />
 </a>
 <a href="https://zNovoid.github.io">
-  <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/chat.png" />
+  <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/cloud.png" />
+</a>
+<a href="https://github.com/zNovoid/positive-messages">
+  <img align="left" alt="zNovoid" width="25px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/2163399.png" />
 </a>
 
 
