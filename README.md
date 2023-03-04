@@ -18,9 +18,6 @@
 <a href="https://zNovoid.github.io">
   <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/cloud.png" />
 </a>
-<a href="https://github.com/zNovoid/positive-messages">
-  <img align="left" alt="zNovoid" width="25px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/2163399.png" />
-</a>
 
 
 
@@ -46,9 +43,10 @@ Hi, I'm Novoid Dii a self-taught developer, I was born in Colombia in 1990. Sinc
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>     <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg"></code> 
 
-**How to reach me:**
+**I don't know:**
 
-<a href="https://github.com/zNovoid"><img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465"><a> 
+<a href="https://github.com/zNovoid/positive-messages"><img align="center" alt="zNovoid" width="100px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/2163399.png"><a>
+  <a href="https://github.com/zNovoid"><img align="center" alt="zNovoid" width="100px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/peppa.jpeg"><a> 
 
 **Stadistics:**
   
