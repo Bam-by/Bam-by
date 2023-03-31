@@ -46,7 +46,7 @@ Hi, I'm Novoid Dii a self-taught developer, I was born in Colombia in Blq. Since
 **I don't know:**
 
 <a href="https://github.com/zNovoid/positive-messages"><img align="center" alt="zNovoid" width="100px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/2163399.png"><a>
-  <a href="https://github.com/zNovoid"><img align="center" alt="zNovoid" width="100px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/peppa.jpeg"><a> 
+  <a href="https://github.com/zNovoid"><img align="center" alt="zNovoid" width="100px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/peppa.png"><a> 
 
 **Stadistics:**
   
