@@ -16,6 +16,9 @@
   <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/Yami-bot.png" />
 </a>
 <a href="https://zNovoid.github.io">
+  <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/newbamby.png" />
+</a>
+<a href="https://github.com/zNovoid/Weather-App">
   <img align="left" alt="zNovoid" width="22px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/cloud.png" />
 </a>
 
