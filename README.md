@@ -1,7 +1,7 @@
 ### Hi there, I'm [Novoid!](https://github.com/zNovoid) 👋
 
 <a href="https://github.com/zNovoid/Discord.js-V13-Bot-Template">
-  <img align="left" alt="znovoid" width="20px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/discord-icono.png" />
+  <img align="left" alt="znovoid" width="20px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/dc.png" />
 </a>
 <a href="https://github.com/zNovoid/Super-Mario/tree/main">
   <img align="left" alt="zNovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/mushroom.png" />
