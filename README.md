@@ -1,4 +1,4 @@
-### Hi there, I'm [Bamby!](https://github.com/zNovoid) 👋
+### Hi there, I'm [Bamby!](https://github.com/Bam-by) 👋
 
 <a href="https://github.com/zNovoid/Discord.js-V13-Bot-Template">
   <img align="left" alt="znovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/discord-icono.png" />
