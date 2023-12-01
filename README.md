@@ -1,4 +1,4 @@
-### Hi there, I'm [Bamby!](https://github.com/Bam-by) 👋
+Salut, je suis [Bamby!](https://github.com/Bam-by) 👋
 
 <a href="https://github.com/zNovoid/Discord.js-V13-Bot-Template">
   <img align="left" alt="znovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/discord-icono.png" />
@@ -28,30 +28,33 @@
 
 <br />
 
-Hi, I'm Bamby Dii a self-taught developer, I was born in Colombia in Blq. Since I was little, I was passionate about technology and always loved creating things. After graduating from university, I will start working in the field of web programming.
+Bonjour, je m'appelle Bamby, développeur autodidacte, chef de clan mafieux, joueur de bapn. Depuis toute petite, j'ai été passionné par la technologie et j'ai toujours aimé créer des choses. J'ai créé des robots pour Discord, j'aime aussi apprendre des langues et je pense que je suis un mélomane
 
-- 🔭 I’m currently working on [My Discord Bot](http://bit.ly/3FyZ9zs )
-- 🌱 I’m currently learning Javascript
-- 💻 I'm currently creating various web programming projects in my free time
-- 💬 Ask me about anything [Here](https://github.com/Bam-by/Bam-by/issues)
+- 🔭 Je travaille actuellement sur [Mon Discord Bot](http://bit.ly/3FyZ9zs)
+- 🌱 J'apprends actuellement Javascript
+- 📖 J'apprends actuellement [عربى ]()
+- 💻 Je crée actuellement divers projets de programmation Web pendant mon temps libre
+- 💬 Demandez-moi n'importe quoi [Ici](https://github.com/Bam-by/Bam-by/issues)
 
-**My interests:**
+**Mis intereses:**
 
-- 📱 Technology
-- 🏀 Sports
-- 🥟 Kitchen
+- 💻 Technologie
+- 🏀 Basket-ball
+- 🥟 Cuisine
+- 😼 Animaux
+- ✒️ﾠPoésie
 
-**Languages and Tools:**  
+**Langages et outils:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>     <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-plain.svg"></code> 
 
-**I don't know:**
+**Je ne sais pas:**
 
 <a href="https://github.com/Bam-by/positive-messages"><img align="center" alt="Bam-by" width="100px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/2163399.png"><a>
   <a href="https://github.com/Bam-by"><img align="center" alt="Bam-by" width="100px" src="https://github.com/Bam-by/Bam-by/blob/main/assets/peppa.png"><a> 
 
-**Stadistics:**
+**Statistiques:**
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bam-by&" alt="Bam-by" /></p>
   
