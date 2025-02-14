@@ -1,4 +1,4 @@
-Salut, je suis [Bamby!](https://github.com/Bam-by) 👋
+Hi, I am [Bamby!](https://github.com/Bam-by) 👋
 
 <a href="https://github.com/zNovoid/Discord.js-V13-Bot-Template">
   <img align="left" alt="znovoid" width="21px" src="https://github.com/zNovoid/zNovoid/blob/main/assets/discord-icono.png" />
@@ -22,24 +22,24 @@ Salut, je suis [Bamby!](https://github.com/Bam-by) 👋
 
 <br />
 
-Bonjour, je m'appelle Bamby, développeur autodidacte, chef de clan mafieux, joueur de bapn. Depuis toute petite, j'ai été passionné par la technologie et j'ai toujours aimé créer des choses. J'ai créé des robots pour Discord, j'aime aussi apprendre des langues et je pense que je suis un mélomane
+Hi, My name is Bamby, self-taught developer, Mafia Clan leader, bapn player. Since I was little I have been passionate about technology n I have always loved creating things. I have created bots for Discord, I also like to learn languages ​​and I think Im a music lover, I hav Narcissistic Personality Disorder :)
 
-- 🔭 Je travaille actuellement sur [Mon Discord Bot](http://bit.ly/3FyZ9zs)
-- 🌱 J'apprends actuellement Javascript
-- 📖 J'apprends actuellement [عربى ]()
-- 💻 Je crée actuellement divers projets de programmation Web pendant mon temps libre
-- 💬 Demandez-moi n'importe quoi [Ici](https://github.com/Bam-by/Bam-by/issues)
-- 💬 Mon Instagram [Ici](https://www.instagram.com/ohno.tommy/)
+- 🔭 I'm currently working on [My Discord Bot](http://bit.ly/3FyZ9zs)
+- 🌱 I'm currently learning Javascript
+- 📖 I'm currently learning [French]()
+- 💻 I'm currently creating various web programming projects in my spare time.
+- 💬 Ask me anything [Here](https://github.com/Bam-by/Bam-by/issues)
+- 💬 My Instagram [Here](https://www.instagram.com/ohno.tommy/)
+- 👤 Sense of self-importance
+  
+**My interests:**
 
-**Mis intereses:**
-
-- 💻 Technologie
+- 💻 Technology
 - 🏀 Basket-ball
-- 🥟 Cuisine
-- 😼 Animaux
+- 🥟 Kitchen
 - ✒️ﾠPoésie
 
-**Langages et outils:**  
+**Languages ​​and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
@@ -58,11 +58,11 @@ Bonjour, je m'appelle Bamby, développeur autodidacte, chef de clan mafieux, jou
 
 <br>
  
-**Plus à propos de moi:**
+**More about me:**
 
-J'aime aussi jouer à toutes sortes de choses, je n'ai pas beaucoup d'amis mais c'est le moindre des choses, j'ai joué à Minecraft, Fortnite, Roblox, Left 4 Dead, Call of Duty, Free Fire. On peut dire que je suis un joueur professionnel.
+I also like to play all kinds of things, I dont have many friends but thats the least I can do, Ive played Minecraft, Fortnite, Roblox, Left 4 Dead, Call of Duty, Free Fire 😶. u could say Im a professional gamer.
 
-**Statistiques:**
+**Statistics:**
 ﾠ
 ﾠ  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bam-by&" alt="Bam-by" /></p>
